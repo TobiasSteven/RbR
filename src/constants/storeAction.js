@@ -1,0 +1,29 @@
+// export const COUNTER_CHANGE = 'COUNTER_CHANGE'
+
+// export const GET_PRODUCTS = "GET_PRODUCTS"
+// export const GET_CATEGORIES = "GET_CATEGORIES"
+
+// export const ADD_TO_CART = "ADD_TO_CART"
+// export const CLEAN_CART = "CLEAN_CART"
+
+// export const GET_PAYMENT_GATEWAY = "GET_PAYMENT_GATEWAY"
+// export const CHECK_PAYMENT_GATEWAY = "CHECK_PAYMENT_GATEWAY"
+
+// export const GET_SHIPPING_OPTION = "GET_SHIPPING_OPTION"
+
+// export const CHECK_SHIPPING_OPTION = "CHECK_SHIPPING_OPTION"
+export const PHONE_NUMBER_OTP = "PHONE_NUMBER_OTP"
+
+
+export const GET_USER = "GET_USER"
+export const SET_POSITION = "SET_POSITION"
+export const SET_CHECKED = "SET_CHECKED"
+export const SET_USER_KEY = 'USER_KEY';
+export const SET_USER_IS_AUTH = 'USER_IS_AUTH';
+export const SET_IS_SPLASH = 'IS_SPLASH';
+export const SET_IS_MODAL = 'IS_MODAL';
+export const SET_STEPS = 'IS_STEPS';
+export const SET_TRACKEUR_STATE = 'TRACKEUR_STATE';
+
+export const SET_GET_PASSWORD = 'GET_PASSWORD';
+// export const ADD_OR_REMOVE_FAVORITE = 'ADD_OR_REMOVE_FAVORITE';
